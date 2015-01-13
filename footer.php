@@ -164,7 +164,7 @@
                 
                 <div class="copyright">
                     <div class="copyright-text">
-                        Copyright &copy; <?php echo date("Y"); ?> KY Entrepreneur HOF
+                        Copyright &copy; <?php echo date("Y"); ?> KY Entrepreneur HoF
                     </div>
                     <div class="credits"><a href="http://www.trippoinc.com">Design by <img src="img/trippo-credit.png"></a></div>
                 </div>
