@@ -7,7 +7,7 @@
 <div class="title">
     <h2>Founders Series</h2>
     <ul id="filters" class="hidden-phone">
-        <li><a href="#" data-filter="*">All</a></li>
+        <li><a href="#" data-filter="*">All Seasons</a></li>
         <li><a href="#" data-filter=".season-one">Season 1</a></li>
         <li><a href="#" data-filter=".season-two">Season 2</a></li>
         <li><a href="#" data-filter=".season-three">Season 3</a></li>    
