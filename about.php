@@ -18,7 +18,7 @@
 
     	<p>Our mission is to raise awareness of the impact that entrepreneurship has made in the Commonwealth and encourage others to pursue similar ambitious endeavors.</p>
 
-    	<p>The class of 2014 will be inducted on November 19th at the Mellwood Arts and Entertainment Center in Louisville. If you would like to attend, please register at <a href="kyehof.eventbrite.com." target="_blank">kyehof.eventbrite.com.</a>.</p>
+    	<!-- <p>The class of 2014 will be inducted on November 19th at the Mellwood Arts and Entertainment Center in Louisville. If you would like to attend, please register at <a href="kyehof.eventbrite.com." target="_blank">kyehof.eventbrite.com.</a>.</p> -->
 
     	<p>Nominations are open for the class of 2015. To nominate, fill out this <a href="/nominate">form</a>. Anyone can nominate.</p>
 

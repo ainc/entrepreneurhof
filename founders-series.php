@@ -9,7 +9,9 @@
     <ul id="filters" class="hidden-phone">
         <li><a href="#" data-filter="*">All</a></li>
         <li><a href="#" data-filter=".season-one">Season 1</a></li>
-	<li><a href="#" data-filter=".season-two">Season 2</a></li>    </ul>
+        <li><a href="#" data-filter=".season-two">Season 2</a></li>
+        <li><a href="#" data-filter=".season-three">Season 3</a></li>    
+    </ul>
     <select class="filter visible-phone">
         <option data-filter="*">All</option>
         <option data-filter=".season-one">Season 1</option>
@@ -24,9 +26,20 @@
     <div class="span12">
         <ul class="da-thumbs foundersVideos">
 
- 	    <li class="foundersVideo season-two">
+            <li class="foundersVideo season-three"> <!-- SEASON 3 -->
+                <h3>Season 3 Ep 1 - John A. Williams, Sr.</h3>
+                <a href="https://www.youtube.com/embed/uvuxCAsC3H8?autoplay=1" rel="shadowbox">
+                    <img src="img/john_williams_video.png" alt="John Williams video image">
+                    <div class="play">
+                        <i class="icon-play-circle"></i>
+                        <p>WATCH THE VIDEO</p>
+                    </div>
+                </a>
+            </li>
+
+            <li class="foundersVideo season-two"> <!-- SEASON 2 -->
                 <h3>Season 2 Ep 4 - Bill Gatton</h3>
-                <a href="http://www.youtube.com/watch?v=eL05jH40HqI&authuser=0" rel="shadowbox">
+                <a href="https://www.youtube.com/embed/eL05jH40HqI?autoplay=1" rel="shadowbox">
                     <img src="img/bill_gatton_video.png" alt="Bill Gatton Founders Series">
                     <div class="play">
                         <i class="icon-play-circle"></i>
@@ -35,7 +48,7 @@
                 </a>
             </li>
 	    
-	    <li class="foundersVideo season-two">
+	        <li class="foundersVideo season-two">
                 <h3>Season 2 Ep 3 - Billy Harper</h3>
                 <a href="http://www.youtube.com/embed/z_Tj0XfF8d0?autoplay=1" rel="shadowbox">
                     <img src="img/billy_harper_video.png" alt="Billy Harper Founders Series">
@@ -46,7 +59,7 @@
                 </a>
             </li>
 	    
-	    <li class="foundersVideo season-two">
+	        <li class="foundersVideo season-two">
                 <h3>Season 2 Ep 2 - Alan Stein</h3>
                 <a href="http://www.youtube.com/embed/VA8EQlWu2Ss?autoplay=1" rel="shadowbox">
                     <img src="img/alan_stein_video.png" alt="Alan Stein Founders Series">
@@ -67,9 +80,9 @@
                         <p>WATCH THE VIDEO</p>
                     </div>
                 </a>
-            </li>
+            </li><!-- //SEASON 2 -->
 
-            <li class="foundersVideo season-one">
+            <li class="foundersVideo season-one"> <!-- SEASON 1 -->
                 <h3>Season 1 Ep 7 - Deane Blazie</h3>
                 <a href="http://www.youtube.com/embed/oe_TCNJUPIU?autoplay=1" rel="shadowbox">
                     <img src="img/deane_blazie_video.jpg" alt="Deane Blazie Founders Series">
@@ -144,7 +157,7 @@
                         <p>WATCH THE VIDEO</p>
                     </div>
                 </a>
-            </li>
+            </li> <!-- //SEASON 1 -->
 
         </ul>
     </div>

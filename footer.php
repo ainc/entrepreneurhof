@@ -126,7 +126,8 @@
                         <p>
 							<!-- <strong>Date</strong></br>
                             November 19th, 2014: </br> 6:00 P.M. - 8:30 P.M. -->
-                             <a href="http://www.entrepreneurhof.com/nominate">Make nominations until August 7th</a>
+                             <a href="http://kyehof.eventbrite.com" target="_blank">Attend the Entrepreneur HOF Ceremony <br> 
+                                    November 18th, 2015 - Register Here</a>
                             
                         </p>
 						<!-- </br>

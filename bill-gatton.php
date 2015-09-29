@@ -17,7 +17,7 @@
     <div class="span9 bioColumn">
 
         <div class="bio-title">
-            <h2>Carrol Martin “Bill” Gattton</h2>
+            <h2>Carrol Martin “Bill” Gatton</h2>
             <div class="tagline">Bill Gatton Motors</div>
         </div>
 

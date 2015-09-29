@@ -23,9 +23,9 @@
 <body>
   <header>
 
-    <div class="top-alert">
+    <!-- <div class="top-alert">
       <a href="http://entrepreneurhof.com/nominate"><strong>Nominations are open for the 2015 class. Click here to nominate.</strong></a>
-    </div>
+    </div> -->
 
     <div class="container">
       <div class="social-bar">
