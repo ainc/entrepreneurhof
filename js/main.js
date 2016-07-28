@@ -120,9 +120,13 @@ function initGallery(){
 
 	// hoverdir
 	$('#inductees > li').each(function(){ 
+
 		$(this).hoverdir(); 
+
 	});
+
 }
+
 
 function initGalleryEE(){
 	// isotope
@@ -152,6 +156,8 @@ function initGalleryEE(){
 		$(this).hoverdir(); 
 	});
 }
+
+
 
 function initVideos(){
 	// isotope

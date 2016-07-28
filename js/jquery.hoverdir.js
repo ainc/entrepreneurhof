@@ -24,7 +24,8 @@
 		speed : 300,
 		easing : 'ease',
 		hoverDelay : 0,
-		inverse : false
+		inverse : false,
+		id: 'redTile'
 	};
 
 	$.HoverDir.prototype = {
@@ -35,6 +36,7 @@
 			this.options = $.extend( true, {}, $.HoverDir.defaults, options );
 			// transition properties
 			this.transitionProp = 'all ' + this.options.speed + 'ms ' + this.options.easing;
+
 			// support for CSS transitions
 			this.support = Modernizr.csstransitions;
 			// load the events
@@ -199,13 +201,15 @@
 			this.each(function() {
 				
 				if ( instance ) {
-
+					
 					instance._init();
 				
 				}
 				else {
-
+					//
 					instance = $.data( this, 'hoverdir', new $.HoverDir( options, this ) );
+
+					
 				
 				}
 
@@ -216,5 +220,11 @@
 		return instance;
 		
 	};
+
+window.addEventListener('popstate', function(event) {
+	if (event.state) {
+		location.reload();
+	}
+}, false);
 	
 } )( jQuery, window );

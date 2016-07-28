@@ -23,9 +23,9 @@
 <body>
   <header>
 
-    <div class="top-alert">
+    <!-- <div class="top-alert">
       <a href="http://entrepreneurhof.com/nominate"><strong>Nominations are open for the 2015 class. Click here to nominate.</strong></a>
-    </div>
+    </div> -->
 
     <div class="container">
       <div class="social-bar">
@@ -46,7 +46,7 @@
                 $file = '/';
             }
 
-            $links = array("Home"=>"/", "About"=>"about","Media"=>"media", "Founders Series"=>"founders-series", "Nominate"=>"nominate");
+            $links = array("Home"=>"/", "About"=>"about","Media"=>"media", "Founders Series"=>"founders-series", "Nominate"=>"nominate", "Register"=>"https://kychamber.wufoo.com/forms/zsaelvn19abd4i/");
 
             foreach($links as $title => $href):
                 $class = strpos($href, $file) !== false ? 'active' : '';

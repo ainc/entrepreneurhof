@@ -4,25 +4,12 @@
     include 'header.php'; 
 ?>
 
-<input type="hidden" id="refreshed" value="no">
-<script type="text/javascript">
-onload=function(){
-    var userAgent = navigator.userAgent.toLowerCase();
-    if (userAgent.indexOf('safari') != -1) {
-        if(!reset){
-            location.reload();
-            reset = true;
-        }
-    }
-
-}
-</script>
 
 <div class="title">
     <h2>Inductees</h2>
     <ul id="filters" class="hidden-phone">
         <li><a href="#" data-filter="*">All</a></li>
-        <li><a href="#" data-filter=".twenty-fifteen-ee,.twenty-fourteen-ee, .twenty-thirteen-ee, .twenty-twelve-ee, .twenty-eleven-ee, .twenty-ten-ee, .twenty-fifteen">2015</a></li>
+        <li><a href="#" data-filter=".twenty-fifteen-ee,.twenty-fourteen-ee, .twenty-thirteen-ee, .twenty-twelve-ee, .twenty-eleven-ee, .twenty-ten-ee, .twenty-fifteen">2014</a></li>
         <li><a href="#" data-filter=".twenty-fifteen-ee,.twenty-fourteen-ee, .twenty-thirteen-ee, .twenty-twelve-ee, .twenty-eleven-ee, .twenty-ten-ee, .twenty-fourteen">2014</a></li>
         <li><a href="#" data-filter=".twenty-fifteen-ee,.twenty-fourteen-ee, .twenty-thirteen-ee, .twenty-twelve-ee, .twenty-eleven-ee, .twenty-ten-ee, .twenty-thirteen">2013</a></li>
         <li><a href="#" data-filter=".twenty-fifteen-ee,.twenty-fourteen-ee, .twenty-thirteen-ee, .twenty-twelve-ee, .twenty-eleven-ee, .twenty-ten-ee, .twenty-twelve">2012</a></li>
@@ -44,19 +31,18 @@ onload=function(){
     </div>  
 </div>         
 
-<div class = "hideMe" style="display:none"></div>
 <div id="gallery" class="row-fluid">
     <div class="span12">
 
         <ul id="inductees" class="da-thumbs inductees">
         
             <li class="inductee twenty-fifteen">
-                <a href="/james-thornton">
+                <a href="/james-thorton">
                     <img src="img/james_thorton.jpg">
                     <div>
                         <span class="name">
-                            James Thornton<br>
-                            <span class="company">Thorntons</span>
+                            James Thorton<br>
+                            <span class="company">Thorton Oil Corperation</span>
                         </span>
                         <span class="view-bio">
                             <i class="icon-eye-open"></i> View Bio
@@ -64,14 +50,27 @@ onload=function(){
                     </div>
                 </a>
             </li>
-           
             <li class="inductee twenty-fifteen">
-                <a href="/george-garvin-brown">
+                <a href="/brad-kelly">
+                    <img src="img/brad_kelly.jpg">
+                    <div>
+                        <span class="name">
+                            Brad Kelly<br>
+                            <span class="company">Commonwealth Brands Tobacco<br>Center for Innovation & Technology<br>NC2 Media<br>Calumet Farm</span>
+                        </span>
+                        <span class="view-bio">
+                            <i class="icon-eye-open"></i> View Bio
+                        </span>
+                    </div>
+                </a>
+            </li>
+            <li class="inductee twenty-fifteen">
+                <a href="/george-gargin-brown">
                     <img src="img/george_garvin_brown.png">
                     <div>
                         <span class="name">
                             George Garvin Brown<br>
-                            <span class="company">Brown-Forman</span>
+                            <span class="company">Brown Forman</span>
                         </span>
                         <span class="view-bio">
                             <i class="icon-eye-open"></i> View Bio
@@ -85,8 +84,8 @@ onload=function(){
                     <img src="img/james_patterson.jpg">
                     <div>
                         <span class="name">
-                            Jim Patterson<br>
-                            <span class="company">Pattco LLC</span>
+                            James Patterson<br>
+                            <span class="company">Long John Silvers</span>
                         </span>
                         <span class="view-bio">
                             <i class="icon-eye-open"></i> View Bio
@@ -473,16 +472,14 @@ onload=function(){
     <h2>Emerging Entrepreneurs</h2>
     <ul id="filtersEE" class="hidden-phone">
         <li><a href="#" data-filter="*">All</a></li>
-        <li><a href="#" data-filter=".twenty-fifteen, .twenty-fourteen, .twenty-thirteen, .twenty-twelve, .twenty-eleven, .twenty-ten, .twenty-fifteen-ee">2015</a></li>
-        <li><a href="#" data-filter=".twenty-fifteen, .twenty-fourteen, .twenty-thirteen, .twenty-twelve, .twenty-eleven, .twenty-ten, .twenty-fourteen-ee">2014</a></li>
-        <li><a href="#" data-filter=".twenty-fifteen, .twenty-fourteen, .twenty-thirteen, .twenty-twelve, .twenty-eleven, .twenty-ten, .twenty-thirteen-ee">2013</a></li>
-        <li><a href="#" data-filter=".twenty-fifteen, .twenty-fourteen, .twenty-thirteen, .twenty-twelve, .twenty-eleven, .twenty-ten, .twenty-twelve-ee">2012</a></li>
-        <li><a href="#" data-filter=".twenty-fifteen, .twenty-fourteen, .twenty-thirteen, .twenty-twelve, .twenty-eleven, .twenty-ten, .twenty-eleven-ee">2011</a></li>
-        <li><a href="#" data-filter=".twenty-fifteen, .twenty-fourteen, .twenty-thirteen, .twenty-twelve, .twenty-eleven, .twenty-ten, .twenty-ten-ee">2010</a></li>
+        <li><a href="#" data-filter=".twenty-fourteen, .twenty-thirteen, .twenty-twelve, .twenty-eleven, .twenty-ten, .twenty-fourteen-ee">2014</a></li>
+        <li><a href="#" data-filter=".twenty-fourteen, .twenty-thirteen, .twenty-twelve, .twenty-eleven, .twenty-ten, .twenty-thirteen-ee">2013</a></li>
+        <li><a href="#" data-filter=".twenty-fourteen, .twenty-thirteen, .twenty-twelve, .twenty-eleven, .twenty-ten, .twenty-twelve-ee">2012</a></li>
+        <li><a href="#" data-filter=".twenty-fourteen, .twenty-thirteen, .twenty-twelve, .twenty-eleven, .twenty-ten, .twenty-eleven-ee">2011</a></li>
+        <li><a href="#" data-filter=".twenty-fourteen, .twenty-thirteen, .twenty-twelve, .twenty-eleven, .twenty-ten, .twenty-ten-ee">2010</a></li>
     </ul>
     <select class="filter visible-phone">
         <option data-filter="*">All</option>
-        <option data-filter=".twenty-fifteen">2015</option>
         <option data-filter=".twenty-fourteen">2014</option>
         <option data-filter=".twenty-thirteen">2013</option>
         <option data-filter=".twenty-twelve">2012</option>
@@ -495,36 +492,6 @@ onload=function(){
     <div class="span12">
 
         <ul id="inducteesEE" class="da-thumbs inductees">
-
-        <li class="inductee twenty-fifteen-ee">
-                <a href="https://www.linkedin.com/in/petertower" target="_blank">
-                    <img src="img/peter_tower.jpg">
-                    <div>
-                        <span class="name">
-                            Peter Tower<br>
-                            <span class="company">Magnolia Photo Booth Company</span>
-                        </span>
-                        <span class="view-bio">
-                            <i class="icon-eye-open"></i> View Bio
-                        </span>
-                    </div>
-                </a>
-            </li>
-
-            <li class="inductee twenty-fifteen-ee">
-                <a href="https://www.linkedin.com/pub/alex-x-frommeyer/1b/49b/a94" target="_blank">
-                    <img src="img/alex_fromeyer.png">
-                    <div>
-                        <span class="name">
-                            Alex Frommeyer<br>
-                            <span class="company">Beam Dental</span>
-                        </span>
-                        <span class="view-bio">
-                            <i class="icon-eye-open"></i> View Bio
-                        </span>
-                    </div>
-                </a>
-            </li>
 
             <li class="inductee twenty-fourteen-ee">
                 <a href="http://rubiconglobal.com/company/executive-leadership/nate-morris/" target="_blank">

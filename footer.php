@@ -17,7 +17,7 @@
                     </div> -->
                     
                     <div class="span6">
-                        <h4>Founding Sponsors</h4>
+                        <h4><b>Founding Sponsors</b></h4>
                         <div class="row-fluid">
                             <div class="span6">
                                 <span>
@@ -31,88 +31,165 @@
                             </div>
                         </div>
                     </div>
-					<div class="span6">
-                        <h4>Spirit of Achievement Sponsors</h4>
-                        <div class="row-fluid supporting-sponsors">
-							<span>
-								<img src="img/sponsors/ced_big.jpg"> <!-- CABINET ECONOMIC DEVELOPMENT -->
-							</span>
-                            <span>
-                                <img src="img/sponsors/deltadental.png"> <!-- DELTA DENTAL -->
-                            </span>
-                            <span>
-								<img src="img/sponsors/LEA Logo.jpg"> <!-- lOUISVILLE EXECUTIVE AVAIATION -->
-							</span>
-							 <span>
-								<img src="img/sponsors/manna.png"> <!-- MANNA LOGO -->
-							</span>
-							<span>
-								<img src="img/sponsors/evansville-icemen.jpg"> <!-- ICEMEN -->
-							</span>	
-							<span>
-								<img src="img/sponsors/UK_Comm.png"> <!-- ICEMEN -->
-							</span>	
-                        </div>
+
+                    <div class = "span6">
+                        <h4><b>Lead Sponsor</b></h4>
+                        <span>
+                            <img  src="img/sponsors/deltaDental.png" style="width:40%" > <!-- DELTA DENTAL -->
+                        </span>
                     </div>
+                   
+					
                 </div>
 
                 <div class="row-fluid sponsor-logos">
-                    <div class="span6 supporting-sponsors">
-                        <h4>Supporting Sponsors</h4>
-                       <span>
-                            <img src="img/sponsors/forcht.png"> <!-- FORCHT BANK -->
-                        </span>
-                          <span>
-                            <img src="img/sponsors/LogoCBPA.jpg"> <!-- MOREHEAD CPBA -->
+         
+                    <div class="span6">
+                        <h4><b>Legacy of Leadership Sponsors</b></h4>
+                        <span>
+                            <img src="img/sponsors/brownforman.png" style="width:30%; padding-right:10%">
                         </span>
                         <span>
-                            <img src="img/sponsors/UK-Gatton-College.png"> <!-- GATTON COLLEGE -->
+                            <img src="img/sponsors/ky-chamber.jpg" style="width:25%">
+                        </span>
+
+                    </div>
+
+                    <div class="span6">
+                       <h4><b>Spirit of Achievement Sponsors</b></h4>
+
+                        <div class="row-fluid supporting-sponsors">
+                        
+                        <div class="span6">
+                            <p>Chris T Sullivan Foundation</p>
+                        </div>    
+                        
+                        <div class="span6">
+                            John & Vivian Williams
+                        </div>
+                        </div>
+                         <div class="row-fluid supporting-sponsors">
+                         <div class="span6">
+                            <img src="img/sponsors/planetFitness.png" >
+                        </div>
+                        <div class="span6"><img src="img/sponsors/boothenergy.png"></div>
+                          
+                        
+                        </div>
+                        <div class="row-fluid supporting-sponsors">
+                        <div class="span6">
+                            <img src="img/sponsors/suntancity.png" >
+                        </div>
+                        <div class="span6">
+                            <img src="img/sponsors/kyEconomicDevelopment.png" >
+                        </div>
+                        </div>
+                        
+                    </div> 
+
+                    
+                </div>
+            </div>
+
+                <div class="row-fluid sponsor-logos">
+               <!-- ALL SPONSORS BELOW HAVEN'T BE CONFIRMED FOR 2015, UNCOMMENT IF SO.
+                    <div class="span6 supporting-sponsors">-->
+                    
+                        <!--
+                       <span>
+                            <img src="img/sponsors/forcht.png"> FORCHT BANK 
+                        </span>
+                          <span>
+                            <img src="img/sponsors/LogoCBPA.jpg"> MOREHEAD CPBA 
+                        </span>
+                        <span>
+                            <img src="img/sponsors/UK-Gatton-College.png"> GATTON COLLEGE
                         </span> 
 						<span> 
 							<img src="img/sponsors/poe-companies.jpg">
 						</span>
-                        <span>
-                            <img src="img/sponsors/suntancity.png">
-                        </span>
-						<span>
-                            <img src="img/sponsors/ky-chamber.jpg">
-                        </span>
-                        <!--<span>
-                            <img src="img/sponsors/louisville.png">
-                        </span>
+                        
+						
+                        
                         <span>
                             <img src="img/sponsors/york.jpg">
                         </span>-->
 			            
-                    </div>
-                    <div class="span6">
-                        <h4>Goldfish Sponsors</h4>
+                    
+
+                    <div class="span8" style="padding-left:5%">
+                        
+                        <h4><b>Supporting Sponsor</b></h4>
                         <div class="row-fluid">
+                        <div class="span4">
+                            <img src="img/sponsors/UL_logo_fullcolor.jpg" style="width:65%">
+                        </div>
+                        <div class="span4">
+                            <img src="img/sponsors/kyInnovation.png" style="width:80%">
+
+                        </div>
+                        
+                        <div class="span4">
+                            <img src="img/sponsors/nationalBank.jpg" style="padding-top:5%;" >
+                        </div>
+                        
+                        </div>
+                        <div class="row-fluid ">
+                        <div class="span4">
+                            <img src = "img/sponsors/GLI.jpg" style="width:65%; padding-top:5%">
+                        </div>
+                        <div class="span4" >
+                            <p style="padding-top:15%">Bill Gatton Foundation</p>
+                        </div>
+                        
+                        
+                        <div class="span4">
+                            <img src="img/sponsors/greerCompany.png" style="width:60%" >
+                        </div>
+                            
+                        </div>
+                        <div class="row-fluid ">
+                        <div class = "span4">
+                            <img src="img/sponsors/frostBrownTodd.jpg" style="width:65%; padding-top:5%">
+                        </div>
+                        <div class="span4"><img src="img/sponsors/ukComm.jpg" style = "width:65%"></div>
+                        <div class="span4">
+                            <img src="img/sponsors/longJohnSilvers.png" style="width:55%; padding-top:3%">
+                        </div>
+                        </div>
+
+                        <div class="row-fluid ">
+                        <div class = "span12">
+                            <img src="img/sponsors/monroeShine.jpg" style="width:25%; padding-top:5%">
+                        </div>
+                        </div>
+                    
+                    </div>
+
+                    <div class="span4">
+                        <h4><b>Goldfish Sponsors</b></h4>
+                        <div class="row-fluid sponsor-logos">
                             <div class="span12">
 <!--                                 AddMor</br>
                                 Glowtouch Technologies</br>
                                 Hanna Resource Group</br> -->
                                 Jim & Pat Host</br>
-								KSTC</br>
-                                John Y. Brown, Jr. </br>
-								Dana & Mike Bowers </br>
-								OPM </br>
-								iNET </br>
-								JYB3 Group </br>
- 								Hilliard Lyons</br>
-								Central Bank </br>
+                                KSTC</br>
+                                John Y. Brown III </br>
+                                Dana & Mike Bowers </br>
+								Connetic Ventures</br>
+
+                                <!-- Below (commented) are sponsors that haven't been confirmed for 2015.-->
+                                <!--OPM </br>
+                                iNET </br>
+                                JYB3 Group </br>
+                                Hilliard Lyons</br>
+                                Central Bank </br>-->
                               <!--  KSBDC -->
                             </div>
+                    </div> 
+
                     
-                           <!--  <div class="span6">
-                                KSTC</br>
-                                Mountjoy, Chilton, Medley LLP</br>
-                                OPM Financial</br>
-                                Pallas Partners</br>
-                                UK Department of Communication
-                            </div> -->
-                        </div>
-                    </div>
                 </div>
             </div>
         </section>
@@ -126,8 +203,14 @@
                         <p>
 							<!-- <strong>Date</strong></br>
                             November 19th, 2014: </br> 6:00 P.M. - 8:30 P.M. -->
-                             <a href="http://www.entrepreneurhof.com/nominate">Make nominations until August 7th</a>
+                             <a href="http://www.entrepreneurhof.com/nominate" target="_blank">Fill out the HOF nomination form here</a>
                             
+                        </p>
+
+                        <h3>Become a Sponsor</h3>
+                        <p>
+                            <a href="https://www.kychamber.com/kehof-sponsor">Opportunities</a><br>
+                            Contact Andrea Flanders at <a href="mailto:aflanders@kychamber.com">aflanders@kychamber.com</a> or <a href="tel:502-848-8723">502-848-8723</a>
                         </p>
 						<!-- </br>
                         <p>
@@ -173,7 +256,8 @@
         </footer>
 
         <div id="fb-root"></div>
-        <script>(function(d, s, id) {
+        <script>
+        (function(d, s, id) {
               var js, fjs = d.getElementsByTagName(s)[0];
               if (d.getElementById(id)) return;
               js = d.createElement(s); js.id = id;
@@ -181,7 +265,9 @@
               fjs.parentNode.insertBefore(js, fjs);
             }(document, 'script', 'facebook-jssdk'));
         </script>
-        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        <script>
+        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+        </script>
 
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.8.2.min.js"><\/script>')</script>

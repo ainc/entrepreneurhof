@@ -10,12 +10,101 @@
             <h2>Recent Press</h2>  
         </div>
 
+        <!-- <ul class="articles">
+            <h3>Class of 2016</h3>
+            <li>
+                <div class="link">
+                    <a href="/4-inductees">
+                        The Kentucky Entrepreneur Hall of Fame to Induct Four Accomplished Entrepreneurs
+                    </a>
+                </div>
+                <div class="info">
+                    Kentucky Chamber - July 19, 2016
+                </div>
+            </li>
+
+        </ul> -->
+
+        <ul class="articles">
+            <h3>Class of 2015</h3>
+            <li>
+                <div class="link">
+                    <a href="http://www.kentucky.com/news/business/article45814510.html" target="_blank">
+                        Business awards: Nov. 23
+                    </a>
+                </div>
+                <div class="info">
+                    Lexington Herald Leader - November 23, 2015
+                </div>
+            </li>
+            <li>
+                <div class="link">
+                    <a href="http://www.lanereport.com/56943/2015/11/five-of-the-most-successful-kentucky-entrepreneurs-to-be-inducted-into-hall-of-fame/" target="_blank">
+                        Five of the most successful Kentucky entrepreneurs to be inducted into hall of fame
+                    </a>
+                </div>
+                <div class="info">
+                    The Lane Report - November 12, 2015
+                </div>
+            </li>
+            <li>
+                <div class="link">
+                    <a href="http://www.kyforward.com/five-of-kentuckys-most-successful-entrepreneurs-to-be-celebrated-with-induction-in-hall-of-fame/" target="_blank">
+                        Five of Kentucky’s most successful entrepreneurs to be celebrated with induction into hall of fame
+                    </a>
+                </div>
+                <div class="info">
+                    KY Forward - November 11, 2015
+                </div>
+            </li>
+            <li>
+                <div class="link">
+                    <a href="http://www.bizjournals.com/louisville/news/2015/11/10/kentucky-entrepreneur-hall-of-fame-inductees-have.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+bizj_louisville+%28Business+First+of+Louisville%29" target="_blank">
+                        Kentucky Entrepreneur Hall of Fame inductees have Louisville ties
+                    </a>
+                </div>
+                <div class="info">
+                    Louisville Business First - November 10, 2015
+                </div>
+            </li>
+            <li>
+                <div class="link">
+                    <a href="http://www.courier-journal.com/story/news/local/2015/11/10/entrepreneur-hall-fame-induct-brown-forman-founder/75520204/?from=global&sessionKey=&autologin=" target="_blank">
+                        Entrepreneur Hall of Fame to induct Brown-Forman founder
+                    </a>
+                </div>
+                <div class="info">
+                    The Courier Journal - November 10, 2015
+                </div>
+            </li>
+            <li>
+                <div class="link">
+                    <a href="https://www.mclaneco.com/content/mclane/en/press-room/articles/grocery-news/thorntons-founder-joins-kentucky-entrepreneur-hall-of-fame.html" target="_blank">
+                        Thorntons Founder Joins Kentucky Entrepreneur Hall of Fame
+                    </a>
+                </div>
+                <div class="info">
+                    McLane Co - October 30, 2015
+                </div>
+            </li>
+            <li>
+                <div class="link">
+                    <a href="http://insiderlouisville.com/startups/entrepreneurs/kentucky-entrepreneur-hall-fame-induct-five-entrepreneurs/?utm_content=buffer1d3c4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_blank">
+                        Kentucky Entrepreneur Hall of Fame to induct five entrepreneurs
+                    </a>
+                </div>
+                <div class="info">
+                    Insider Louisville - October 27, 2015
+                </div>
+            </li>
+        </ul>
+
         <ul class="articles">
             <h3>Class of 2014</h3>
             <li>
                 <div class="link">
                     <a href="http://www.louisville.com/content/fifth-annual-kentucky-entrepreneur-hall-fame-induction-ceremony" target="_blank">
-                        Fifth Annual Kentucky Entrepreneur Hall of Fame Inductio  Ceremony
+                        Fifth Annual Kentucky Entrepreneur Hall of Fame Induction Ceremony
                     </a>
                 </div>
                 <div class="info">
@@ -198,12 +287,18 @@
     	
     </div>
     <div class="span4">
-    	<div class="title">
-            <h2>Recent Photos</h2>
+        <div class="title">
+            <h2>Press Release</h2>
             <div id="linkdiv">
                 <h2><a href="http://fellowship.awesomeinc.org" target="_blank"><img src="img/Logo_Square.png" class="link"></a></h2>
                 <h2><a href="/founders-series.php"><img src="img/founders_logo.png" class="link"></a></h2>
             </div>
+        </div>
+        <div class="">
+            <a href="/4-inductees">July 15: 2016 Inductees Announced  <i class="icon-caret-right"></i></a>
+        </div>
+    	<div class="title">
+            <h2>Recent Photos</h2>
         </div>  
         <div class="photos photos-media">
         </div>

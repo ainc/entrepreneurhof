@@ -23,7 +23,7 @@
 
         <div class="bio">
             George Fischer was a founder of 
-            Metridate Company Inc., a leader in the field of 
+            Metridata Computer Inc, a leader in the field of 
             proprietary education. He took the company 
             public to become one of the largest remote 
             computer processing companies in the Midwest. 

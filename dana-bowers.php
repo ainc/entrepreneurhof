@@ -22,7 +22,7 @@
         </div>
 
         <div class="bio">
-            In 2001, Dana Bowers founded, along with her husband Mike, iPay Technologies. During her tenure at iPay, Dana served as CEO and as a member of the board of directors, and grew the company to become the largest independent electronic bill pay provider in the US. iPay was sold to Jack Henry and Associates in June of 2010 for $300 million.
+            In 2001, Dana Bowers, along with her husband Mike, founded iPay Technologies. During her tenure at iPay, Dana served as CEO and as a member of the board of directors, and grew the company to become the largest independent electronic bill pay provider in the US. iPay was sold to Jack Henry and Associates in June of 2010 for $300 million.
         </div>
 
         <div class="back">

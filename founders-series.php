@@ -9,7 +9,10 @@
     <ul id="filters" class="hidden-phone">
         <li><a href="#" data-filter="*">All</a></li>
         <li><a href="#" data-filter=".season-one">Season 1</a></li>
-	<li><a href="#" data-filter=".season-two">Season 2</a></li>    </ul>
+        <li><a href="#" data-filter=".season-two">Season 2</a></li>
+        <li><a href="#" data-filter=".season-three">Season 3</a></li> 
+        <li><a href="#" data-filter=".season-four">Season 4</a></li>    
+    </ul>
     <select class="filter visible-phone">
         <option data-filter="*">All</option>
         <option data-filter=".season-one">Season 1</option>
@@ -22,12 +25,65 @@
 
 <div id="founders" class="row-fluid">
     <div class="span12">
-        <ul class="da-thumbs foundersVideos">
 
- 	    <li class="foundersVideo season-two">
+        <ul class="da-thumbs foundersVideos">
+            <li class="foundersVideo season-four"> <!-- SEASON 4 -->
+                <h3>Season 4 Ep 2 - Chris Sullivan</h3>
+                <a href="https://www.youtube.com/watch?v=lb1Lr7jQr6M?autoplay=1" rel="shadowbox">
+                    <img src="img/chris_sullivan_video.png" alt="Chris Sullivan video image">
+                    <div class="play">
+                        <i class="icon-play-circle"></i>
+                        <p>WATCH THE VIDEO</p>
+                    </div>
+                </a>
+            </li>
+            <li class="foundersVideo season-four"> 
+                <h3>Season 4 Ep 1 - Jim Booth</h3>
+                <a href="https://www.youtube.com/watch?v=GFba6HYkHg8?autoplay=1" rel="shadowbox">
+                    <img src="img/jim_booth_video.png" alt="Jim Booth video image">
+                    <div class="play">
+                        <i class="icon-play-circle"></i>
+                        <p>WATCH THE VIDEO</p>
+                    </div>
+                </a>
+            </li>
+
+            <li class="foundersVideo season-three"> <!-- SEASON 3 -->
+                <h3>Season 3 Ep 3 - Junior Bridgeman</h3>
+                <a href="https://www.youtube.com/embed/XfwVohPnZHg?autoplay=1" rel="shadowbox">
+                    <img src="img/junior_bridgeman_video.jpg" alt="Junior Bridgeman video image">
+                    <div class="play">
+                        <i class="icon-play-circle"></i>
+                        <p>WATCH THE VIDEO</p>
+                    </div>
+                </a>
+            </li>
+            <li class="foundersVideo season-three">
+                <h3>Season 3 Ep 2 - George Fischer</h3>
+                <a href="https://www.youtube.com/embed/fxyo1-i4EkM?autoplay=1" rel="shadowbox">
+                    <img src="img/george_fischer_video.jpg" alt="George Fischer video image">
+                    <div class="play">
+                        <i class="icon-play-circle"></i>
+                        <p>WATCH THE VIDEO</p>
+                    </div>
+                </a>
+            </li>
+            <li class="foundersVideo season-three">
+                <h3>Season 3 Ep 1 - John A. Williams, Sr.</h3>
+                <a href="https://www.youtube.com/embed/uvuxCAsC3H8?autoplay=1" rel="shadowbox">
+                    <img src="img/john_williams_video.jpg" alt="John Williams video image">
+                    <div class="play">
+                        <i class="icon-play-circle"></i>
+                        <p>WATCH THE VIDEO</p>
+                    </div>
+                </a>
+            </li>
+
+
+            <li class="foundersVideo season-two"> <!-- SEASON 2 -->
                 <h3>Season 2 Ep 4 - Bill Gatton</h3>
-                <a href="http://www.youtube.com/watch?v=eL05jH40HqI&authuser=0" rel="shadowbox">
-                    <img src="img/bill_gatton_video.png" alt="Bill Gatton Founders Series">
+                <a href="https://www.youtube.com/embed/eL05jH40HqI?autoplay=1" rel="shadowbox">
+                    <img src="img/bill_gatton_video.jpg" alt="Bill Gatton Founders Series">
                     <div class="play">
                         <i class="icon-play-circle"></i>
                         <p>WATCH THE VIDEO</p>
@@ -35,10 +91,10 @@
                 </a>
             </li>
 	    
-	    <li class="foundersVideo season-two">
+	        <li class="foundersVideo season-two">
                 <h3>Season 2 Ep 3 - Billy Harper</h3>
                 <a href="http://www.youtube.com/embed/z_Tj0XfF8d0?autoplay=1" rel="shadowbox">
-                    <img src="img/billy_harper_video.png" alt="Billy Harper Founders Series">
+                    <img src="img/billy_harper_video.jpg" alt="Billy Harper Founders Series">
                     <div class="play">
                         <i class="icon-play-circle"></i>
                         <p>WATCH THE VIDEO</p>
@@ -46,10 +102,10 @@
                 </a>
             </li>
 	    
-	    <li class="foundersVideo season-two">
+	        <li class="foundersVideo season-two">
                 <h3>Season 2 Ep 2 - Alan Stein</h3>
                 <a href="http://www.youtube.com/embed/VA8EQlWu2Ss?autoplay=1" rel="shadowbox">
-                    <img src="img/alan_stein_video.png" alt="Alan Stein Founders Series">
+                    <img src="img/alan_stein_video.jpg" alt="Alan Stein Founders Series">
                     <div class="play">
                         <i class="icon-play-circle"></i>
                         <p>WATCH THE VIDEO</p>
@@ -61,15 +117,15 @@
 	    <li class="foundersVideo season-two">
                 <h3>Season 2 Ep 1 - Dana Bowers</h3>
                 <a href="http://www.youtube.com/embed/X2dh90zdDG0?autoplay=1" rel="shadowbox">
-                    <img src="img/dana_bowers_video.png" alt="Dana Bowers Founders Series">
+                    <img src="img/dana_bowers_video.jpg" alt="Dana Bowers Founders Series">
                     <div class="play">
                         <i class="icon-play-circle"></i>
                         <p>WATCH THE VIDEO</p>
                     </div>
                 </a>
-            </li>
+            </li><!-- //SEASON 2 -->
 
-            <li class="foundersVideo season-one">
+            <li class="foundersVideo season-one"> <!-- SEASON 1 -->
                 <h3>Season 1 Ep 7 - Deane Blazie</h3>
                 <a href="http://www.youtube.com/embed/oe_TCNJUPIU?autoplay=1" rel="shadowbox">
                     <img src="img/deane_blazie_video.jpg" alt="Deane Blazie Founders Series">
@@ -144,7 +200,7 @@
                         <p>WATCH THE VIDEO</p>
                     </div>
                 </a>
-            </li>
+            </li> <!-- //SEASON 1 -->
 
         </ul>
     </div>
